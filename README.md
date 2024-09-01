@@ -1,6 +1,7 @@
 IT student / future programmer (I hope 😐)
-
-C++, Web development
+- C++
+- Web development
+- Game dev
 
 <!---
 TuldoX/TuldoX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
