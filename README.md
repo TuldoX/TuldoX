@@ -1,7 +1,7 @@
 # Hello there !
-I'm a student studying IT on high school who learns programming by building projects.
+I am a high school IT student who learns programming by building projects.
 
-### Skills:
+## Skills:
  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-2C3E50?style=flat-square&logo=micropython&logoColor=white)
