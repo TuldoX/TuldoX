@@ -1,5 +1,6 @@
 # Hello there !
-I am a high school IT student who learns programming by building projects.
+I’m a high school IT student who’s passionate about coding and turning ideas into reality through projects.Currently learning Node.js and React.
+In my spare time, I solving problems, and adding a bit of creativity to everything I do.
 
 ## Skills:
  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
