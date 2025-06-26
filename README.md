@@ -1,6 +1,6 @@
 # Hello there !
-I’m a high school IT student who’s passionate about coding and turning ideas into reality through projects.Currently learning Node.js and React.
-In my spare time, I solving problems, and adding a bit of creativity to everything I do.
+I’m a high school IT student who’s passionate about coding and turning ideas into reality through projects.
+In my spare time, I like solving problems, and adding a bit of creativity to everything I do.
 
 ## Skills:
 
